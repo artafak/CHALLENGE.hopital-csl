@@ -31,7 +31,7 @@ Face aux différentes attaques cyber menées par des groupes de hackers sur des 
 C'est dans ce cadre que vous intervenez. Mandaté par le département sécurité numérique de la préfecture d'Ancenis, votre mission est d'auditer le système actuel pour déterminer sa robustesse et sa résilience en cas d'attaque, afin de savoir s'il peut être conservé en l'état, où si des aménagements sont nécessaires.
 
 A savoir que l'ancien système informatique a été désactivé car il n'était plus maintenu à jour, l'équipe informatique avait été remerciée, faute de moyens suffisants dans les budgets précédents.
-Des propres mots du référent sécurité informatique du CH-CSL : "_Une panne sur ce nouveau service nous ferait revenir à l'âge de pierre... ou plutôt du papier et du crayon, ce qui est tout bonnement impensable !__"
+Des propres mots du référent sécurité informatique du CH-CSL : "_Une panne sur ce nouveau service nous ferait revenir à l'âge de pierre... ou plutôt du papier et du crayon, ce qui est tout bonnement impensable !_"
 
 
 # Technique
