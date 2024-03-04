@@ -38,7 +38,7 @@ Des propres mots du référent sécurité informatique du CH-CSL : "_Une panne s
 ### Scénario du point de vue technique
 
 Vous allez auditer le serveur principal de l'infrastructure. C'est le serveur installé par le prestataire CyberDream.
-Une machine virtuelle en format OVA 2.0 utilisable avec VirtualBox (7.x)
+Une machine virtuelle en format OVA 2.0 utilisable avec [VirtualBox (7.x)](https://www.virtualbox.org/wiki/Downloads)
 La machine virtuelle dispose des caractéristiques suivantes :
 RAM : 2Go (nécessaires).  4Go (confort)
 Espace disque nécessaire : environ 10 Go max.  (La VM fait 6,5Go)
@@ -83,3 +83,8 @@ Le bruteforce n'est ni utile, ni nécessaire pour l'ensemble du challenge. inuti
 
 Simulation créée par Artafak (artafak@yahoo.fr) en janvier 2024 au profit de la formation ESD (Expert en sécurité digitale : https://esdacademy.eu)
 Le site Internet _hopital-csl.fr_ de la simulation a été grandement inspiré par celui du centre hospitalier d'Erdre et Loire (_ch-erdreloire.fr_) dont certains éléments ont été utilisés. Les documents, fichiers et images utilisés dans le scénario, bien que récupérés depuis le-dit site, ont été modifiés afin de changer les noms, prénoms, photos et éléments permettant l'identification formel de l'hôpital d'Erdre-et-Loire (numéro de téléphone, adresse ...) uniquement dans le but de rendre la simulation plus immersive et réelle. Tous les noms des personnels apparaissant dans les documents ont été modifiés et sont purement fictifs. Tous les éléments utilisés dans le cadre de ce scénario appartiennent à leurs auteurs respectifs et ne peuvent être utilisés dans un cadre commercial. **Cette simulation ainsi que tous ses éléments ne sont utilisables que dans un domaine strictement pédagogique.** 
+
+# Ressources
+
+[Accès au challenge (téléchargement et documentations annexes) depuis Google Drive](https://drive.google.com/drive/folders/1-Tip5E6uSoAQ6xLMVwr1tpl7HaYMHjrG?usp=sharing)
+
