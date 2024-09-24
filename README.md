@@ -1,7 +1,7 @@
 # CHALLENGE Hopital-csl.fr
 VM de challenge pour tester ses compétences en Pentest...
 
-![Présentation](https://i.ibb.co/FntHkDX/logo.jpg)
+![Présentation](https://i.ibb.co/HXQhLHC/logo.jpg)
 
 # Introduction
 
